@@ -1,1 +1,1 @@
-[GitHub] (https://github.com/amlh22)
+[GitHub](https://github.com/amlh22)
